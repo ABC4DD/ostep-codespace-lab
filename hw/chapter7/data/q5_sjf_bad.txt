@@ -1,0 +1,4 @@
+ARG policy SJF
+ARG jlist 20:0,1:1,1:2,1:3
+
+Here is the job list, with the run time of each job: 

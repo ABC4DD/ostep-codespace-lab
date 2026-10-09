@@ -1,0 +1,4 @@
+ARG policy RR
+ARG jlist 1:0,2:0,3:0
+
+Here is the job list, with the run time of each job: 
